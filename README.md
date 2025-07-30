@@ -1,5 +1,7 @@
 # Jetal Bhanarkar
 
+<img width="1584" height="396" alt="Black And Grey Professional Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/f5470220-4b1b-4fe5-adb7-9832277fc7c9" />
+
 **Data Science | Machine Learning | Data Analysis | Python | SQL | Power BI**
 
 - **Email:** bhanarkarjetal01@gmail.com
@@ -10,15 +12,19 @@
 
 ## About Me
 
-I am a career-switcher with a robust background in Engineering. I hold certifications in Data Science, Machine Learning and Deep Learning. I am proficient in Python, SQL, Power BI, and leading machine learning frameworks. My experience spans from building end-to-end data pipelines from performing exploratory data analysis (EDA), data cleaning and manipulation, developing predictive models, hyperparameter tuning, and evaluating relevant metrics to imprve accuracy and efficiency of the model.
+I am an engineer transitioning into the data science with a strong foundation in analytical thinking and problem-solving skills.
 
-I am open to entry-level opportunities in Data Science, Machine Learning, and Data Analysis in Germany.
+I am certified in Machine Learning, Deep Learning, and Data Analysis from leading platform like Coursera (IBM, Macquarie, Edureka). I am skilled in applying techniques to build end-to-end data pipelines from performing exploratory data analysis (EDA), data cleaning and manipulation, developing predictive models, hyperparameter tuning, and evaluating relevant metrics in supervised and unsupervised learning tasks, including regression, classification, clustering, and neural networks. I am proficient in Python, SQL, Power BI, and leading machine learning frameworks. 
+
+I am currently seeking entry-level/junior roles in data science, machine learning, or applied AI to contribute to impactful projects and continue developing as a data professional. 
+
+I am open to connecting with professionals and recruiters in the data and technology space.
 
 ---
 
 ## Technical Skills
 
-- **Programming & Tools:** Python, SQL, Excel, Git, Jupyter Notebook, Power BI, Visual Studio Code, Linux
+- **Programming & Tools:** Python, SQL, Excel, Git, Jupyter Notebook, Power BI, Visual Studio Code, Linux, Docker
 - **Libraries & Frameworks:** scikit-learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn, FastAPI
 - **Techniques:** Regression, Classification, Clustering, Dimensionality Reduction, Deep Learning, Transfer Learning
 - **Evaluation Methods:** Accuracy, Precision, Recall, F1-Score, Cross-Validation, ROC-AUC, Hyperparameter Tuning
