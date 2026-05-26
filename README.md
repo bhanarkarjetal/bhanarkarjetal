@@ -14,33 +14,38 @@ I am open to connecting with professionals and recruiters working in medical dev
 
 ## Projects
 
-### [CAPA Investigation Report](https://github.com/bhanarkarjetal/capa-investigation)
+**[CAPA Investigation Report](https://github.com/bhanarkarjetal/capa-investigation)**
 
 A hypothetical CAPA (Corrective and Preventive Action) investigation built on a real FDA recall pattern, set in a fictional medical device company (MedFluss GmbH).
 - Covers the full CAPA lifecycle: nonconformity identification, root cause analysis (Five Whys), corrective and preventive actions, revalidation, and closure
 - Failure scenario: micro-punctures in hydrophobic membrane caused by an embedded particle on a sonotrode horn during ultrasonic welding
 - Includes containment, field action (FSCA/FSN), 90-day effectiveness surveillance, and IQ/OQ/PQ revalidation
 - Standards applied: ISO 13485:2016, ISO 14971, EU MDR 2017/745
-  
+
+ **[CAPA Performance Dashboard](https://github.com/bhanarkarjetal/capa-dashboard)**
+
+A CAPA performance dashboard built for MedFluss GmbH, the same fictional ISO 13485 certified medical device company. Uses real FDA device enforcement data as the nonconformity source, with a synthetic CAPA layer built on top to simulate an internal quality management process.
+
+- Answers key QM questions: open vs closed vs overdue CAPAs, root cause distribution, department burden, closure effectiveness, and yearly trends
+- Built with Python (pandas), PostgreSQL, SQLAlchemy, and Tableau
+- Data pipeline covers extraction from openFDA API, cleaning, root cause reclassification, synthetic CAPA generation, and KPI queries
+- 529 CAPA records across 10 root cause categories, with severity weighting based on a realistic ISO 13485 QMS
+- **[Live dashboard:](https://public.tableau.com/app/profile/jetal.bhanarkar/viz/CAPA-dashboard/SeverityBreakdown)**
+
+---
 **[breast-cancer-imaging-cnn](https://github.com/bhanarkarjetal/breast-cancer-imaging-cnn)**
 - Started as a CNN classifier. Became an investigation into why the dataset's label quality makes any headline accuracy number meaningless. The interesting part wasn't the model, it was learning to recognise when the data is the problem.
 
 **[data\_analysis](https://github.com/bhanarkarjetal/data_analysis)**
 - EDA, statistical analysis, and visualisation across different datasets. Mostly me practising the discipline of asking the right question before reaching for a tool.
 
-**[machine\_learning](https://github.com/bhanarkarjetal/machine_learning)**
-- End-to-end ML projects. Regression, classification, clustering, validation.
-
 ---
 
 ## What I know
 
 ```
-Languages      Python | SQL | a bit of German (B1, working on B2)
-Libraries      pandas | NumPy | scikit-learn | PyTorch | Matplotlib | Seaborn
-Workflow       Docker | Git | Jupyter | Power BI | Excel
 Regulatory     EU MDR 2017/745 | ISO 13485:2016 | ISO 14971 (Basic)
-Domain         Biomedical Engineering · Medical Imaging · Clinical Data
+Domain         Biomedical Engineering | Medical Imaging | Clinical Data
 ```
 
 ---
@@ -52,14 +57,6 @@ Domain         Biomedical Engineering · Medical Imaging · Clinical Data
 - 2.5 years as Data Analyst — Python/SQL pipelines, statistical reporting, Power BI dashboards in a production environment
 - Braunschweig, Germany - unlimited work permit, available immediately
 - English (fluent) | German (B1, B2 in progress) | Hindi / Marathi (native)
-
----
-
-## Currently
-
-Self-studying EU MDR 2017/745, ISO 13485:2016, and ISO 14971 - because understanding what post-market surveillance data is *for* changes how you think about cleaning and validating it.
-
-Looking for: **Clinical Data Analyst, Clinical Data Manager, MedTech Data Analyst** roles in Germany.
 
 ---
 
