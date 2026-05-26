@@ -1,21 +1,35 @@
 # Hi, I'm Jetal. 
 
-I'm a **biomedical engineer** with 2.5 years of real production data work  with Python pipelines, SQL, statistical analyses, Power BI dashboards, and is now deliberately moving into **clinical data and MedTech** in Germany.
+I am a biomedical engineer with a strong foundation in analytical thinking, quality systems, and data-driven problem solving, looking to grow within the MedTech industry.
 
-Most people in clinical data know the regulations but struggle with the data engineering. Most data engineers know the tools but can't read a clinical protocol. I'm building to sit at that intersection.
+I have built hands-on experience working with the quality and regulatory frameworks that govern medical devices. I am familiar with the standards and requirements that shape the MedTech space, including EU MDR 2017/745, ISO 13485:2016, and ISO 14971, and I apply this understanding practically, from conducting structured CAPA investigations and root cause analyses to working with risk management documentation and QMS processes.
+
+I complement this quality foundation with strong data skills. I am proficient in Python and SQL, and certified in Machine Learning and Data Analysis (Coursera: IBM, Macquarie, Edureka), which allows me to bring a data-driven approach to quality and post-market activities where it adds value.
+
+I am currently seeking opportunities in the MedTech industry where I can contribute to building and maintaining quality systems, support regulatory compliance, and work on products that have a real impact on patient safety and outcomes.
+
+I am open to connecting with professionals and recruiters working in medical devices, MedTech, and life sciences.
 
 ---
 
-## Some of my Projects
+## Projects
 
+### [CAPA Investigation Report](https://github.com/bhanarkarjetal/capa-investigation)
+
+A hypothetical CAPA (Corrective and Preventive Action) investigation built on a real FDA recall pattern, set in a fictional medical device company (MedFluss GmbH).
+- Covers the full CAPA lifecycle: nonconformity identification, root cause analysis (Five Whys), corrective and preventive actions, revalidation, and closure
+- Failure scenario: micro-punctures in hydrophobic membrane caused by an embedded particle on a sonotrode horn during ultrasonic welding
+- Includes containment, field action (FSCA/FSN), 90-day effectiveness surveillance, and IQ/OQ/PQ revalidation
+- Standards applied: ISO 13485:2016, ISO 14971, EU MDR 2017/745
+  
 **[breast-cancer-imaging-cnn](https://github.com/bhanarkarjetal/breast-cancer-imaging-cnn)**
-— Started as a CNN classifier. Became an investigation into why the dataset's label quality makes any headline accuracy number meaningless. The interesting part wasn't the model, it was learning to recognise when the data is the problem.
+- Started as a CNN classifier. Became an investigation into why the dataset's label quality makes any headline accuracy number meaningless. The interesting part wasn't the model, it was learning to recognise when the data is the problem.
 
 **[data\_analysis](https://github.com/bhanarkarjetal/data_analysis)**
-— EDA, statistical analysis, and visualisation across different datasets. Mostly me practising the discipline of asking the right question before reaching for a tool.
+- EDA, statistical analysis, and visualisation across different datasets. Mostly me practising the discipline of asking the right question before reaching for a tool.
 
 **[machine\_learning](https://github.com/bhanarkarjetal/machine_learning)**
-— End-to-end ML projects. Regression, classification, clustering, validation.
+- End-to-end ML projects. Regression, classification, clustering, validation.
 
 ---
 
