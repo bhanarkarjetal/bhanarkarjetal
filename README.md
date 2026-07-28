@@ -8,7 +8,7 @@
 - Selbststudium seit Anfang 2026: ISO 13485, EU MDR, ISO 14971, CFR 21 Part 820
 - Zwei Portfolio-Projekte auf GitHub: CAPA-Untersuchung (Infusionspumpe) und CAPA-Performance-Dashboard (529 Datensätze, openFDA)
 - Data-Analytics-Grundlage: Full-Stack Data Science und AI (1StepGrow, 02/2024 bis 12/2025)
-- Deutsch B1+, aktuell B2 bei Berlitz. Englisch C1. Hindi und Marathi: Muttersprache
+- Deutsch: Goethe-Zertifikat B1, aktuell B2 bei Berlitz. Englisch C1. Hindi und Marathi: Muttersprache
 - Unbeschränkte Arbeitserlaubnis in Deutschland (Familiennachzug). Umzugsbereit. Sofort verfügbar.
 
 **Zielrollen:** Mitarbeiter Qualitätsmanagement, PMS-Analyst, Quality Data Analyst, CAPA-Koordinator (Medizinprodukte).
@@ -16,7 +16,7 @@
 **Kontakt:** 
 [bhanarkarjetal@gmail.com](bhanarkarjetak@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/bhanarkarjetal/) | 
-[Xing](https://www.xing.com/profile/Jetal_Bhanarkar) |
+[Xing](https://www.xing.com/profile/Jetal_Bhanarkar) 
 
 ## Projekte
 
