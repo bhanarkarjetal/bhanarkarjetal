@@ -1,64 +1,53 @@
-# Hi, I'm Jetal. 
+# Jetal Bhanarkar
 
-I am a biomedical engineer with a strong foundation in analytical thinking, quality systems, and data-driven problem solving, looking to grow within the MedTech industry.
+**Biomedizinische Ingenieurin | Qualitätsmanagement für Medizinprodukte | Braunschweig**
 
-I have built hands-on experience working with the quality and regulatory frameworks that govern medical devices. I am familiar with the standards and requirements that shape the MedTech space, including EU MDR 2017/745, ISO 13485:2016, and ISO 14971, and I apply this understanding practically, from conducting structured CAPA investigations and root cause analyses to working with risk management documentation and QMS processes.
+## Auf einen Blick
 
-I complement this quality foundation with strong data skills. I am proficient in Python and SQL, and certified in Machine Learning and Data Analysis (Coursera: IBM, Macquarie, Edureka), which allows me to bring a data-driven approach to quality and post-market activities where it adds value.
+- Master in Biomedizintechnik (NIT Rourkela, ZAB-anerkannt), Bachelor in Maschinenbau
+- Selbststudium seit Anfang 2026: ISO 13485, EU MDR, ISO 14971, CFR 21 Part 820
+- Zwei Portfolio-Projekte auf GitHub: CAPA-Untersuchung (Infusionspumpe) und CAPA-Performance-Dashboard (529 Datensätze, openFDA)
+- Data-Analytics-Grundlage: Full-Stack Data Science und AI (1StepGrow, 02/2024 bis 12/2025)
+- Deutsch B1+, aktuell B2 bei Berlitz. Englisch C1. Hindi und Marathi: Muttersprache
+- Unbeschränkte Arbeitserlaubnis in Deutschland (Familiennachzug). Umzugsbereit. Sofort verfügbar.
 
-I am currently seeking opportunities in the MedTech industry where I can contribute to building and maintaining quality systems, support regulatory compliance, and work on products that have a real impact on patient safety and outcomes.
+**Zielrollen:** Mitarbeiter Qualitätsmanagement, PMS-Analyst, Quality Data Analyst, CAPA-Koordinator (Medizinprodukte).
 
-I am open to connecting with professionals and recruiters working in medical devices, MedTech, and life sciences.
+**Kontakt:** 
+[bhanarkarjetal@gmail.com](bhanarkarjetak@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bhanarkarjetal/)
+[Xing](https://www.xing.com/profile/Jetal_Bhanarkar) |
 
----
+## Projekte
 
-## Projects
+### [CAPA-Untersuchung an einer Infusionspumpe](https://github.com/bhanarkarjetal/capa-investigation)
 
-**[CAPA Investigation Report](https://github.com/bhanarkarjetal/capa-investigation)**
+Vollständige CAPA-Untersuchung auf Basis eines realen FDA-Rückrufmusters (fiktive MedFluss GmbH). Fehlerszenario: Mikroperforationen einer hydrophoben Membran durch Partikeleinschluss auf der Sonotroden-Fläche beim Ultraschallschweißen.
 
-A hypothetical CAPA (Corrective and Preventive Action) investigation built on a real FDA recall pattern, set in a fictional medical device company (MedFluss GmbH).
-- Covers the full CAPA lifecycle: nonconformity identification, root cause analysis (Five Whys), corrective and preventive actions, revalidation, and closure
-- Failure scenario: micro-punctures in hydrophobic membrane caused by an embedded particle on a sonotrode horn during ultrasonic welding
-- Includes containment, field action (FSCA/FSN), 90-day effectiveness surveillance, and IQ/OQ/PQ revalidation
-- Standards applied: ISO 13485:2016, ISO 14971, EU MDR 2017/745
+- Vollständiger CAPA-Lebenszyklus: Ursachenanalyse (5-Why, Ishikawa), Korrektur- und Vorbeugungsmaßnahmen, IQ/OQ/PQ-Revalidierung, 90-Tage-Wirksamkeitsprüfung, FSCA/FSN-Feldmaßnahme, Abschluss
+- Angewandte Standards: ISO 13485:2016, ISO 14971, EU MDR 2017/745
 
- **[CAPA Performance Dashboard](https://github.com/bhanarkarjetal/capa-dashboard)**
+### [CAPA-Performance-Dashboard](https://github.com/bhanarkarjetal/capa-dashboard)
 
-A CAPA performance dashboard built for MedFluss GmbH, the same fictional ISO 13485 certified medical device company. Uses real FDA device enforcement data as the nonconformity source, with a synthetic CAPA layer built on top to simulate an internal quality management process.
+CAPA-Dashboard auf Basis realer FDA-Enforcement-Daten mit synthetischer CAPA-Ebene zur Simulation eines internen QM-Prozesses (529 Datensätze, 10 Grundursachen-Kategorien).
 
-- Answers key QM questions: open vs closed vs overdue CAPAs, root cause distribution, department burden, closure effectiveness, and yearly trends
-- Built with Python (pandas), PostgreSQL, SQLAlchemy, and Tableau
-- Data pipeline covers extraction from openFDA API, cleaning, root cause reclassification, synthetic CAPA generation, and KPI queries
-- 529 CAPA records across 10 root cause categories, with severity weighting based on a realistic ISO 13485 QMS
-- **[Live dashboard:](https://public.tableau.com/app/profile/jetal.bhanarkar/viz/CAPA-dashboard/SeverityBreakdown)**
+- Antwortet auf zentrale QM-Fragen: offene vs. geschlossene vs. überfällige CAPAs, Grundursachen-Verteilung, Abteilungsbelastung, jährliche Trends
+- Tech-Stack: Python (pandas), PostgreSQL, SQLAlchemy, Tableau; Datenpipeline von openFDA API bis KPI-Abfragen
+- [Live-Dashboard]([Link-einfügen](https://public.tableau.com/app/profile/jetal.bhanarkar/viz/CAPA-dashboard/SeverityBreakdown))
 
----
-**[breast-cancer-imaging-cnn](https://github.com/bhanarkarjetal/breast-cancer-imaging-cnn)**
-- Started as a CNN classifier. Became an investigation into why the dataset's label quality makes any headline accuracy number meaningless. The interesting part wasn't the model, it was learning to recognise when the data is the problem.
 
-**[data\_analysis](https://github.com/bhanarkarjetal/data_analysis)**
-- EDA, statistical analysis, and visualisation across different datasets. Mostly me practising the discipline of asking the right question before reaching for a tool.
+## Kompetenzen
 
----
+**Regulatorisch:** EU MDR 2017/745, ISO 13485:2016, ISO 14971 (Grundkenntnisse), CFR 21 Part 820 (Grundkenntnisse)
 
-## What I know
+**QM-Methoden:** CAPA, 5-Why, Ishikawa, FMEA, 8D (Grundkenntnisse), IQ/OQ/PQ-Revalidierung, Change Control, Risikomanagementakte
 
-```
-Regulatory     EU MDR 2017/745 | ISO 13485:2016 | ISO 14971 (Basic)
-Domain         Biomedical Engineering | Medical Imaging | Clinical Data
-```
+**Daten und Werkzeuge:** Tableau, Power BI, MS Office, Python, SQL, PostgreSQL
 
----
+## Ausbildung
 
-## My background
-
-- M.Tech Biomedical Engineering — NIT Rourkela
-  *(recognised in Germany as equivalent to a German Master's degree)*
-- 2.5 years as Data Analyst — Python/SQL pipelines, statistical reporting, Power BI dashboards in a production environment
-- Braunschweig, Germany - unlimited work permit, available immediately
-- English (fluent) | German (B1, B2 in progress) | Hindi / Marathi (native)
-
----
+- **Master in Biomedizintechnik:** NIT Rourkela, 2020 bis 2022 (ZAB-anerkannt)
+- **Bachelor in Maschinenbau:** 2014 bis 2018
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhanarkarjetal">
@@ -71,9 +60,5 @@ Domain         Biomedical Engineering | Medical Imaging | Clinical Data
   &nbsp;
   <a href="mailto:bhanarkarjetal01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://hub.docker.com/repositories/bhanarkarjetal">
-    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat&logo=docker&logoColor=white" />
   </a>
 </p>
