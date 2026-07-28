@@ -14,8 +14,8 @@
 **Zielrollen:** Mitarbeiter Qualitätsmanagement, PMS-Analyst, Quality Data Analyst, CAPA-Koordinator (Medizinprodukte).
 
 **Kontakt:** 
-[bhanarkarjetal@gmail.com](bhanarkarjetak@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/bhanarkarjetal/)
+[bhanarkarjetal@gmail.com](bhanarkarjetak@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/bhanarkarjetal/) | 
 [Xing](https://www.xing.com/profile/Jetal_Bhanarkar) |
 
 ## Projekte
